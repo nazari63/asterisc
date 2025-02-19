@@ -260,3 +260,4 @@ Asterisc aims to be open for anyone to use with MIT license.
 ## License
 
 MIT, see [`LICENSE` file](./LICENSE).
+This project is a demonstration of blockchain technology and smart contract integration.
